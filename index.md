@@ -1,4 +1,11 @@
 # Ruhaan's First CS193 Homework
+### My favorite things from the class:
+- The TAs!
+- Feeling a sense of achievement everytime I perform even the most basic task on a computer because it's _CS_
+- Being introduced to new CS related clubs
+- The presentations are by far the most aesthetic
+
+-----------------------------
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
